@@ -22,7 +22,7 @@ bash <(curl -s https://file.winsnip.xyz/file/uploads/Nexus-beta.sh)
 ```
 Save prover-id
 ```bash
-cat $HOME/.nexus/prover-id
+cat $HOME/.nexus/prover-id; echo ""
 ```
 
 # Manual Install
